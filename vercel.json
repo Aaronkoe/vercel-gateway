@@ -1,11 +1,11 @@
 {
   "rewrites": [
     {
-      "source": "/project1",
+      "source": "/vite-project1",
       "destination": "https://vite-project-tawny-ten-87.vercel.app"
     },
     {
-      "source": "/project1/:path*",
+      "source": "/vite-project1/:path*",
       "destination": "https://vite-project-tawny-ten-87.vercel.app/:path*"
     },
     {
